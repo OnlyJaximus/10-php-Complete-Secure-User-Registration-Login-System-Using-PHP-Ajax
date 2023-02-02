@@ -1,4 +1,17 @@
 # 10-php-Complete-Secure-User-Registration-Login-System-Using-PHP-Ajax
+
+https://cdnjs.com/libraries
+https://cdnjs.com/libraries/jquery-validate/1.17.0
+https://releases.jquery.com/
+
+https://www.w3schools.com/icons/fontawesome_icons_intro.asp     (Font Awesome Introduction)
+
+https://github.com/PHPMailer/PHPMailer   (need a new version)
+<br><br>
+__autoload() is no longer supported, use spl_autoload_register() instead in C:\xampp\htdocs\webapp\PHPMailerAutoload.php on line 45
+https://stackoverflow.com/questions/65346342/autoload-is-no-longer-supported-use-spl-autoload-register-instead-in-c-x
+<br><br>
+
 - User Registration and login system with remember me &amp; forgot password using bootstrap 4, PHP, Ajax &amp; MySQLi
 - Form Design using Bootstrap 4
 - Form Validation using jQuery
